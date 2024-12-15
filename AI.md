@@ -6,4 +6,5 @@ Here's a list of AI services I'm currently using:
 4. Gemini - Google's version of AI LLM Chatbot. Technologically, it is on the same level as ChatGPT and probably exceeds Claude.ai. However, they tend to be a slow mover compared to the others, likely because of the bureaucracy.
 
 **Honorable mentions**
+
 5. Copilot - this is Microsoft's AI LLM Chatbot. It is based on the ChatGPT model, so it's not unique. However it is tightly and effectively integrated with Microsoft 365 and the Edge browers, and it can be very helpful.
