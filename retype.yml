@@ -10,6 +10,13 @@ links:
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
 navigation:
-  - home: /
-  - Guide:
-      - Sports: /Sports/
+  - title: "Musings, random information, and lessons learned"
+    items:
+      - title: "AI"
+        link: /ai
+      - title: "Shortcuts"
+        link: /shortcuts
+      - title: "Sports"
+        items:
+          - title: "Sports"
+            link: /sports/index
