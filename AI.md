@@ -1,4 +1,4 @@
-Here's a list of AI services I'm currently using:
+**Here's a list of AI services I'm currently using:**
 
 1. ChatGPT.com - currently the standard for AI LLM Chatbots. Also, they have an industry-standard API.
 2. Perplexity.ai - a search and lightweight AI LLM Chatbot.
