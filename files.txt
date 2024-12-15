@@ -1,0 +1,641 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2EEC-2FE2
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website
+
+12/15/2024  10:34 AM    <DIR>          .
+12/13/2024  08:43 PM    <DIR>          ..
+12/13/2024  08:43 PM                66 .gitattributes
+12/15/2024  10:02 AM               966 AI.md
+12/15/2024  10:34 AM                 0 files.txt
+12/14/2024  06:13 PM             1,314 index.md
+12/15/2024  10:12 AM               535 retype.yml
+12/14/2024  09:34 PM               372 Shortcuts.md
+12/15/2024  10:09 AM    <DIR>          Sports
+               6 File(s)          3,253 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git
+
+12/15/2024  10:34 AM    <DIR>          ..
+12/15/2024  10:02 AM                18 COMMIT_EDITMSG
+12/14/2024  06:14 PM               367 config
+12/13/2024  08:43 PM                73 description
+12/15/2024  10:34 AM                96 FETCH_HEAD
+12/13/2024  08:43 PM                21 HEAD
+12/13/2024  08:43 PM    <DIR>          hooks
+12/15/2024  10:02 AM               640 index
+12/13/2024  08:43 PM    <DIR>          info
+12/13/2024  08:43 PM    <DIR>          logs
+12/15/2024  10:34 AM    <DIR>          objects
+12/15/2024  10:02 AM                41 ORIG_HEAD
+12/13/2024  08:48 PM    <DIR>          refs
+               7 File(s)          1,256 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\hooks
+
+12/13/2024  08:43 PM    <DIR>          .
+12/13/2024  08:43 PM               478 applypatch-msg.sample
+12/13/2024  08:43 PM               896 commit-msg.sample
+12/13/2024  08:43 PM             4,726 fsmonitor-watchman.sample
+12/13/2024  08:43 PM               189 post-update.sample
+12/13/2024  08:43 PM               424 pre-applypatch.sample
+12/13/2024  08:43 PM             1,649 pre-commit.sample
+12/13/2024  08:43 PM               416 pre-merge-commit.sample
+12/13/2024  08:43 PM             1,374 pre-push.sample
+12/13/2024  08:43 PM             4,898 pre-rebase.sample
+12/13/2024  08:43 PM               544 pre-receive.sample
+12/13/2024  08:43 PM             1,492 prepare-commit-msg.sample
+12/13/2024  08:43 PM             2,783 push-to-checkout.sample
+12/13/2024  08:43 PM             2,308 sendemail-validate.sample
+12/13/2024  08:43 PM             3,650 update.sample
+              14 File(s)         25,827 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\info
+
+12/13/2024  08:43 PM    <DIR>          .
+12/13/2024  08:43 PM               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\logs
+
+12/13/2024  08:43 PM    <DIR>          .
+12/15/2024  10:02 AM             3,087 HEAD
+12/13/2024  08:48 PM    <DIR>          refs
+               1 File(s)          3,087 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\logs\refs
+
+12/13/2024  08:48 PM    <DIR>          .
+12/13/2024  08:43 PM    <DIR>          ..
+12/13/2024  08:43 PM    <DIR>          heads
+12/13/2024  08:48 PM    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\logs\refs\heads
+
+12/13/2024  08:43 PM    <DIR>          .
+12/13/2024  08:48 PM    <DIR>          ..
+12/15/2024  10:02 AM             3,087 main
+               1 File(s)          3,087 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\logs\refs\remotes
+
+12/13/2024  08:48 PM    <DIR>          .
+12/13/2024  08:48 PM    <DIR>          ..
+12/13/2024  08:48 PM    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\logs\refs\remotes\origin
+
+12/13/2024  08:48 PM    <DIR>          .
+12/13/2024  08:48 PM    <DIR>          ..
+12/15/2024  10:34 AM             5,066 HEAD
+12/15/2024  10:02 AM             2,589 main
+               2 File(s)          7,655 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects
+
+12/15/2024  10:34 AM    <DIR>          .
+12/13/2024  08:48 PM    <DIR>          04
+12/14/2024  10:03 PM    <DIR>          07
+12/14/2024  10:48 PM    <DIR>          10
+12/14/2024  03:11 PM    <DIR>          11
+12/13/2024  08:48 PM    <DIR>          16
+12/15/2024  10:02 AM    <DIR>          33
+12/15/2024  10:02 AM    <DIR>          35
+12/15/2024  09:55 AM    <DIR>          36
+12/15/2024  10:02 AM    <DIR>          3f
+12/15/2024  10:02 AM    <DIR>          45
+12/14/2024  10:03 PM    <DIR>          48
+12/13/2024  09:01 PM    <DIR>          4c
+12/14/2024  10:48 PM    <DIR>          4f
+12/14/2024  09:16 PM    <DIR>          52
+12/14/2024  09:26 PM    <DIR>          56
+12/14/2024  09:34 PM    <DIR>          5a
+12/15/2024  10:02 AM    <DIR>          5c
+12/15/2024  10:02 AM    <DIR>          60
+12/14/2024  06:21 PM    <DIR>          64
+12/14/2024  10:39 PM    <DIR>          6e
+12/13/2024  08:43 PM    <DIR>          6f
+12/15/2024  10:02 AM    <DIR>          73
+12/13/2024  08:48 PM    <DIR>          74
+12/14/2024  10:39 PM    <DIR>          79
+12/14/2024  10:10 PM    <DIR>          7f
+12/14/2024  09:26 PM    <DIR>          83
+12/15/2024  10:02 AM    <DIR>          8a
+12/15/2024  10:02 AM    <DIR>          92
+12/15/2024  09:55 AM    <DIR>          96
+12/14/2024  10:03 PM    <DIR>          9a
+12/14/2024  06:21 PM    <DIR>          9c
+12/14/2024  09:16 PM    <DIR>          9e
+12/14/2024  03:11 PM    <DIR>          9f
+12/14/2024  09:09 PM    <DIR>          a2
+12/14/2024  10:10 PM    <DIR>          a3
+12/14/2024  10:48 PM    <DIR>          a5
+12/13/2024  08:48 PM    <DIR>          a8
+12/14/2024  09:14 PM    <DIR>          ab
+12/14/2024  10:48 PM    <DIR>          b1
+12/14/2024  09:34 PM    <DIR>          b6
+12/14/2024  10:10 PM    <DIR>          b8
+12/14/2024  05:54 PM    <DIR>          ba
+12/14/2024  09:34 PM    <DIR>          c0
+12/13/2024  08:59 PM    <DIR>          c3
+12/14/2024  09:26 PM    <DIR>          c4
+12/14/2024  09:16 PM    <DIR>          d2
+12/14/2024  09:14 PM    <DIR>          d3
+12/14/2024  09:09 PM    <DIR>          d6
+12/13/2024  09:01 PM    <DIR>          d7
+12/14/2024  10:39 PM    <DIR>          d8
+12/15/2024  10:02 AM    <DIR>          dc
+12/13/2024  08:59 PM    <DIR>          df
+12/14/2024  09:14 PM    <DIR>          e1
+12/15/2024  09:55 AM    <DIR>          e3
+12/15/2024  10:02 AM    <DIR>          e4
+12/15/2024  10:02 AM    <DIR>          e5
+12/14/2024  10:10 PM    <DIR>          e6
+12/14/2024  06:21 PM    <DIR>          e9
+12/15/2024  10:02 AM    <DIR>          ed
+12/13/2024  08:43 PM    <DIR>          info
+12/13/2024  08:43 PM    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\04
+
+12/13/2024  08:48 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/13/2024  08:48 PM                34 cd016bd9d17929db2ea8cc57255bf1bc2d5476
+               1 File(s)             34 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\07
+
+12/14/2024  10:03 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  10:03 PM               159 4a09c43c1d1fc93f521f00bfffeb41644df660
+               1 File(s)            159 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\10
+
+12/14/2024  10:48 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  10:48 PM               218 0f09553447aca8e5881a4964269933add94d47
+               1 File(s)            218 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\11
+
+12/14/2024  03:11 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  03:11 PM               157 6c782a4ed05b4cf09be0aa8bbcde04e9e4e5b6
+12/13/2024  09:01 PM               159 9c72bfc6d16fdbc59227ca18a4c4ac3b2afbaf
+               2 File(s)            316 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\16
+
+12/13/2024  08:48 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/13/2024  08:48 PM               156 4f1cb479e3f2eabe898134032d9b737af50af7
+               1 File(s)            156 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\33
+
+12/15/2024  10:02 AM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/15/2024  10:02 AM               546 28f530f84fce6fe69ff8a272af110ca7479d92
+               1 File(s)            546 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\35
+
+12/15/2024  10:02 AM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/15/2024  10:02 AM               828 fd73b50aabd3b1f3d3b8bf68b756d6ee2a1511
+               1 File(s)            828 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\36
+
+12/15/2024  09:55 AM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/13/2024  08:59 PM               158 6a944654c6dbbf5653633f66eb393f40c94a6f
+12/15/2024  09:55 AM               828 a5f843311fddf9daec204384619016c06e0c2a
+               2 File(s)            986 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\3f
+
+12/15/2024  10:02 AM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/15/2024  10:02 AM               218 efe30797c097a1275bf1fab82408791b926b19
+               1 File(s)            218 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\45
+
+12/15/2024  10:02 AM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/15/2024  10:02 AM               214 406c2119483f6123207dd99b974ffe84e10f8b
+12/14/2024  05:54 PM               157 6101347f353dd359a1b243d169126218781d86
+               2 File(s)            371 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\48
+
+12/14/2024  10:03 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  10:03 PM                54 d609081ad61ebc0e28ea5741275b10cc011ec2
+               1 File(s)             54 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\4c
+
+12/13/2024  09:01 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/13/2024  09:01 PM               125 6d1824e7411a9c43e02e6554649c26bee10712
+               1 File(s)            125 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\4f
+
+12/14/2024  10:48 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  10:48 PM               173 b8aecef944130d5fbecda55a9d176ef1dea0a3
+               1 File(s)            173 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\52
+
+12/14/2024  09:16 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  09:16 PM               149 c4e0348157e94e0edc0a7ca8573b2cd591e4fa
+               1 File(s)            149 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\56
+
+12/14/2024  09:26 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  09:26 PM               416 d7c6714e87545c2bde4341be3fa62d0b6455db
+               1 File(s)            416 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\5a
+
+12/14/2024  09:34 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  09:34 PM               158 6a3ac9aa89fdc59db4a1cf49ed5f4a7298f337
+               1 File(s)            158 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\5c
+
+12/15/2024  10:02 AM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/15/2024  10:02 AM               304 a6de37b9cf398e5e1631ee61012de5cafda59c
+               1 File(s)            304 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\60
+
+12/15/2024  10:02 AM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/15/2024  10:02 AM               219 7f43cc57b600f9140cd891176f458e1dc800f4
+12/15/2024  10:02 AM               828 e4c51955f1c60cae709ee4a9a20160a5960aac
+               2 File(s)          1,047 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\64
+
+12/14/2024  06:21 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  03:11 PM               568 09ba95619c9f734697e973a21c21e2ff6db833
+12/14/2024  06:21 PM               155 e708b1a1a8057f5860a902afe154c28c1efb3c
+               2 File(s)            723 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\6e
+
+12/14/2024  10:39 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  10:39 PM               169 82cb1c73778c1c0817965a3d5f130f90f2574e
+               1 File(s)            169 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\6f
+
+12/13/2024  08:43 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/13/2024  08:43 PM                59 9509c88bed7080d496fc5e1d87a9315e30549d
+12/13/2024  08:43 PM               125 beb054a371e2523379fd707d69e0b882bcaf5e
+               2 File(s)            184 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\73
+
+12/15/2024  10:02 AM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/15/2024  10:02 AM               546 8b7ab2296118bf8cbef76f2dac7ca11c746adc
+               1 File(s)            546 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\74
+
+12/13/2024  08:48 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/13/2024  08:48 PM               124 06d071aaad942c89cc8f2551fdbcdf36682454
+               1 File(s)            124 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\79
+
+12/14/2024  10:39 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  10:39 PM                53 b0201417a7e1e7803854e13e848c52bea49027
+               1 File(s)             53 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\7f
+
+12/14/2024  10:10 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  10:10 PM               218 a325383429a0c556c61c41a5ff06a0e9f3f53c
+               1 File(s)            218 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\83
+
+12/14/2024  09:26 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  09:26 PM               186 757985bc73da54fb3aa987b1c74c491ada6d70
+               1 File(s)            186 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\8a
+
+12/15/2024  10:02 AM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/15/2024  10:02 AM               831 7eda0c5d7d5d07fe4165ac88648cc616f361f3
+               1 File(s)            831 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\92
+
+12/15/2024  10:02 AM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/15/2024  10:02 AM               218 0f5430f00cb4cf16a5a61f4497531f7bcf9701
+               1 File(s)            218 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\96
+
+12/15/2024  09:55 AM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/15/2024  09:55 AM               218 9affaf129162f9aedb83449311a9396bb7eb81
+               1 File(s)            218 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\9a
+
+12/14/2024  10:03 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  10:03 PM               217 1815e28f7a988f99dc5647b8b09f69c6b6ef2e
+12/14/2024  05:54 PM               154 ac0838366f5b4b39f8a70f9d79059f0302f4d4
+               2 File(s)            371 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\9c
+
+12/14/2024  06:21 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  10:39 PM               765 d7963d7d587ed9f52ec67419331a7c07881c7e
+               1 File(s)            765 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\9e
+
+12/14/2024  09:16 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  09:09 PM               148 0b7697a6b27a3a5227ebc3a64572cae065610c
+12/14/2024  09:16 PM               159 8f3c6b660f9eb06db5fc43da0f44a2a89de0ae
+               2 File(s)            307 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\9f
+
+12/14/2024  03:11 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  03:11 PM               154 d9c85c20bdb9d8d84a4553b735fd3c17cb8135
+               1 File(s)            154 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\a2
+
+12/14/2024  09:09 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  09:09 PM               160 46d8f7ad80237e1a0f8e4110d7fa1d3534f0b4
+               1 File(s)            160 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\a3
+
+12/14/2024  10:10 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  10:10 PM                87 96fe5a4845fe885a72716a9adf40e494e394b0
+               1 File(s)             87 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\a5
+
+12/14/2024  10:48 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  10:48 PM               234 78471f73794db118389b864c34350ad923f0f3
+               1 File(s)            234 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\a8
+
+12/13/2024  08:48 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/13/2024  08:48 PM               207 e24316a40d30128412fd7078d6841879f9088c
+               1 File(s)            207 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\ab
+
+12/14/2024  09:14 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  09:14 PM               159 2d505bf162e78e418b760f42c45d6840e83fd5
+               1 File(s)            159 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\b1
+
+12/14/2024  10:48 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  10:48 PM                81 ecfdd60c8d101d90c0ec7d18fe3e4cf58d2908
+               1 File(s)             81 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\b6
+
+12/14/2024  09:34 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  10:39 PM               251 5b165aabc517d834020a67d7d932951a1d02bb
+               1 File(s)            251 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\b8
+
+12/14/2024  10:10 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  10:10 PM               159 339c25613f7e161b3be5b329bf14e42df1a2b2
+               1 File(s)            159 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\ba
+
+12/14/2024  05:54 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  05:54 PM               645 873bc3e750f6948fc77302aaf99fa30f3d9a64
+               1 File(s)            645 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\c0
+
+12/14/2024  09:34 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  09:34 PM               186 701eb6588b5728bf1f14c4c91366991744ceba
+               1 File(s)            186 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\c3
+
+12/13/2024  08:59 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/13/2024  08:59 PM               124 f0e4402367c18edc8420605afd90a3b99a7465
+               1 File(s)            124 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\c4
+
+12/14/2024  09:26 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  09:26 PM               163 aaf03824ba15e4e0a685cee21b97cb123b69b6
+               1 File(s)            163 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\d2
+
+12/14/2024  09:16 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  09:16 PM               203 c3fec7b105d0c1be7c392e425a574b48eaaa02
+               1 File(s)            203 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\d3
+
+12/14/2024  09:14 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  09:14 PM               153 b118a27b97383cb670406315c8b24f5c83f86c
+               1 File(s)            153 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\d6
+
+12/14/2024  09:09 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  09:09 PM               159 0ee0550c8834ff90a2e1205795618097bf9a41
+               1 File(s)            159 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\d7
+
+12/13/2024  09:01 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/13/2024  09:01 PM               208 7bea92b51851c213d70f62dc890259b2f996df
+               1 File(s)            208 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\d8
+
+12/14/2024  10:39 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  10:39 PM               218 72cca014424e821ddda017476a7943c7a5c80a
+               1 File(s)            218 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\dc
+
+12/15/2024  10:02 AM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/15/2024  10:02 AM               544 85ec74c193f27b3ed7761127b862f03a3c8d8b
+               1 File(s)            544 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\df
+
+12/13/2024  08:59 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/13/2024  08:59 PM                66 abcd8a5916b3a8a9500fe3c1221f4a5347e8ef
+12/13/2024  08:43 PM                76 e0770424b2a19faf507a501ebfc23be8f54e7b
+               2 File(s)            142 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\e1
+
+12/14/2024  09:14 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  09:16 PM               252 f7b6625bc05be477c47f6709831d08a9bfc87c
+               1 File(s)            252 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\e3
+
+12/15/2024  09:55 AM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/15/2024  09:55 AM               543 2b49cc549f0c44e016513c4c1b39c389641855
+               1 File(s)            543 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\e4
+
+12/15/2024  10:02 AM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/15/2024  10:02 AM               219 60378ff68fb2de26022fdfb7d2ff85d40f12dc
+               1 File(s)            219 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\e5
+
+12/15/2024  10:02 AM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/15/2024  10:02 AM               218 0673c744c345b96f899cf70b3d7f5d5cae3340
+               1 File(s)            218 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\e6
+
+12/14/2024  10:10 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  10:48 PM                15 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+               1 File(s)             15 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\e9
+
+12/14/2024  06:21 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  06:21 PM               158 749951e44afbfebcc3d5cd16890c214eaa08d5
+               1 File(s)            158 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\ed
+
+12/15/2024  10:02 AM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/15/2024  10:02 AM               160 d5d0d4ea7e9ddb8b768ba1c8c0823e81d26ef9
+               1 File(s)            160 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\info
+
+12/13/2024  08:43 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\objects\pack
+
+12/13/2024  08:43 PM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\refs
+
+12/13/2024  08:48 PM    <DIR>          .
+12/15/2024  10:02 AM    <DIR>          heads
+12/13/2024  08:48 PM    <DIR>          remotes
+12/13/2024  08:43 PM    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\refs\heads
+
+12/15/2024  10:02 AM    <DIR>          .
+12/13/2024  08:48 PM    <DIR>          ..
+12/15/2024  10:02 AM                41 main
+               1 File(s)             41 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\refs\remotes
+
+12/13/2024  08:48 PM    <DIR>          .
+12/13/2024  08:48 PM    <DIR>          ..
+12/15/2024  10:34 AM    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\refs\remotes\origin
+
+12/15/2024  10:34 AM    <DIR>          .
+12/13/2024  08:48 PM    <DIR>          ..
+12/15/2024  10:34 AM                30 HEAD
+12/15/2024  10:02 AM                41 main
+               2 File(s)             71 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\.git\refs\tags
+
+12/13/2024  08:43 PM    <DIR>          .
+12/13/2024  08:48 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\cleon\OneDrive\Documents\retype\website\Sports
+
+12/15/2024  10:09 AM    <DIR>          .
+12/15/2024  10:34 AM    <DIR>          ..
+12/14/2024  09:34 PM               372 index.md
+               1 File(s)            372 bytes
+
+     Total Files Listed:
+             104 File(s)         61,862 bytes
+             223 Dir(s)  259,640,369,152 bytes free

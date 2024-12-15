@@ -1,5 +1,3 @@
-input: .
-output: .retype
 url: https://website-a9i.pages.dev/
 branding:
   title: The Leon Files
@@ -10,13 +8,17 @@ links:
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
 navigation:
-  - title: "Musings, random information, and lessons learned"
-    items:
-      - title: "AI"
-        link: /ai
-      - title: "Shortcuts"
-        link: /shortcuts
-      - title: "Sports"
-        items:
-          - title: "Sports"
-            link: /sports/index
+  - group: "Musings, random information, and lessons learned"
+    children:
+      - text: "AI"
+        link: /ai/
+        sort: 1
+      - text: "Shortcuts"
+        link: /shortcuts/
+        sort: 2
+      - text: "Sports"
+        link: /sports/
+        sort: 3
+        children:
+          - text: "Overview"
+            link: /sports/sportslinks
