@@ -13,12 +13,15 @@ navigation:
       - text: "AI"
         link: /ai/
         sort: 1
-      - text: "Shortcuts"
-        link: /shortcuts/
-        sort: 2
-      - text: "Sports"
-        link: /sports/
+      - text: "Interests"
+        link: /Interests/
         sort: 3
         children:
           - text: "Overview"
-            link: /sports/sportslinks
+            link: /Interests/AI
+      - text: "Wisdom"
+        link: /Wisdom/
+        sort: 4
+        children:
+          - text: "Shortcuts"
+            link: /Interests/Shortcuts
