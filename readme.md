@@ -1,4 +1,4 @@
-# Musings, random information, and life hacks
+# Musings, random information, and lessons learned
 
 ## This Website's Purpose
 
@@ -9,3 +9,5 @@ My early experiences included a mix of hobbyist interests and general curiosity 
 My first experience with technology training in a classroom setting was a one-day course at the local community college called "Computers for Kids." The learning plan involved pairing students up to disassemble a working desktop PC in the morning and then reassemble it after lunch. If everything worked at the end of the day, the class was considered a success.
 
 It’s remarkable to witness how far we’ve come, and I understand how different these experiences can be for many of us.
+
+My hope for this webpage is to create a space where I can capture some of my knowledge and share it with others. This may help people avoid the mistakes I've made while allowing them to learn the lessons those experiences taught me.
