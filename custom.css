@@ -1,6 +1,6 @@
-pre code {
-    white-space: pre-wrap;    /* Wraps code lines */
-    word-break: break-word;   /* Breaks long words if needed */
-    overflow-wrap: anywhere;  /* Handles overflow neatly */
+.wrap-code pre code {
+    white-space: pre-wrap;
+    word-break: break-word;
+    overflow-wrap: anywhere;
   }
   
