@@ -8,7 +8,7 @@
 ## AI services I'm currently using
 
 1. [ChatGPT.com](https://www.chatgpt.com) is currently the standard for AI LLM Chatbots and it has an industry-standard API.
-2. ![Perplexity](image.jpg)[Perplexity.ai](https://www.Perplexity.ai) is an AI-driven search engine and lightweight AI LLM Chatbot.
+2. [Perplexity.ai](https://www.Perplexity.ai) is an AI-driven search engine and lightweight AI LLM Chatbot.
 3. [Claude.ai](https://www.Claude.ai) is the closest competitor to ChatGPT for the consumer-ready AI LLM Chatbot platform. Unlike ChatGPT and Perplexity.ai, Claude cannot search the internet. Further, the knowledge cutoff of current events and science predated the cutoff of ChatGPT and Gemini.
 4. [Gemini](https://gemini.google.com/) is Google's version of the AI LLM Chatbot. Technologically, it is on the same level as ChatGPT and probably exceeds Claude.ai. However, they tend to be a slow mover compared to the others, likely because of the bureaucracy.
 
