@@ -25,3 +25,11 @@ navigation:
         children:
           - text: "Shortcuts"
             link: /Interests/Shortcuts
+  - group: "Hermes Assistant"
+    children:
+      - text: "SMS Opt-In"
+        link: /hermes-sms/
+      - text: "Privacy Policy"
+        link: /privacy/
+      - text: "SMS Terms"
+        link: /sms-terms/
