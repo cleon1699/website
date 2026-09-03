@@ -20,3 +20,6 @@ For help, email [raven82neo@proton.me](mailto:raven82neo@proton.me).
 
 [Privacy Policy](/privacy/) · [SMS Terms and Conditions](/sms-terms/)
 
+## Campaign collateral
+
+[View the public opt-in notice screenshot](/hermes-sms-opt-in.png)
